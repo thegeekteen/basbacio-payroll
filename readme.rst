@@ -2,8 +2,6 @@ My Past System Development Experience for S.B. Basbacio Construction
 
 Simple Construction Management System
 
-My Past System Development Experience for S.B. Basbacio Construction
-
 Youtube Demo: https://www.youtube.com/watch?v=HMYSRQVyp4M
 
 Github: https://github.com/thegeekteen/basbacio-payroll
