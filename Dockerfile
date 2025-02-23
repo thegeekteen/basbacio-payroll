@@ -13,8 +13,8 @@ WORKDIR /var/www/html
 # Copy PHAR file to the container
 COPY ./ /var/www/html
 
-RUN  mkdir -p /var/www/html/sessions && chmod 777 /var/www/html/sessions && \
-    echo "session.save_path = \"/var/www/html/sessions\"" > /usr/local/etc/php/conf.d/session.ini && \
+RUN  mkdir -p /var/www/sessions && chmod 777 /var/www/sessions && \
+    echo "session.save_path = \"/var/www/sessions\"" > /usr/local/etc/php/conf.d/session.ini && \
     chown -R www-data:www-data /var/www/html && chmod -R 755 /var/www/html
 
 # Expose port 80

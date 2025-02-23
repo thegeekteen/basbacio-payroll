@@ -7,5 +7,5 @@ services:
         ports:
             - 8181:80
         volumes: 
-            - ./basbacio-payroll.db:/var/www/html/basbacio-payroll.db
+            - ./:/var/www/html
         restart: always
