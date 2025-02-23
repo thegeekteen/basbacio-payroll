@@ -1,8 +1,8 @@
-[Title]EZ-Payroll [ v.<?php echo $this->config->item("version");?> Basbacio Version ][/Title]
+[Title]EZ-Payroll (Docker) [ v.<?php echo $this->config->item("version");?> Basbacio Version ][/Title]
 
 [Contents]
 
-          <h1 class="h3 mb-4 text-<?php echo $ClassName;?>"><span class="glyphicons"></span> EZ-Payroll <span style="font-size:12px;">[ v.<?php echo $this->config->item("version");?> Basbacio Version ]</span></h1>
+          <h1 class="h3 mb-4 text-<?php echo $ClassName;?>"><span class="glyphicons"></span> EZ-Payroll (Docker) <span style="font-size:12px;">[ v.<?php echo $this->config->item("version");?> Basbacio Version ]</span></h1>
           <hr />
 
           <div class="row">
@@ -12,7 +12,7 @@
               <div class="card shadow mb-4">
                 <!-- Card Header - Dropdown -->
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                  <h6 class="m-0 font-weight-bold text-<?php echo $ClassName;?>"><span class="glyphicons"></span> EZ-Payroll <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span></h6>
+                  <h6 class="m-0 font-weight-bold text-<?php echo $ClassName;?>"><span class="glyphicons"></span> EZ-Payroll (Docker) <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span></h6>
                   <!-- <div class="dropdown no-arrow">
                     <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                       <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
@@ -33,7 +33,7 @@
                   <h4><span class="glyphicons"></span> <span>GL Aba&ntilde;o Systems</span>
                     <br />
                     <h6>
-                      <span class="glyphicons"></span> EZ-Payroll (Docker Version) <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span>
+                      <span class="glyphicons"></span> EZ-Payroll (Docker) <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span>
                     </h6>
                   <span style="font-size:12px;color:gray;display:block;">Contact No [DITO]: <b>+(63) 992-830-7802</b></span>
 

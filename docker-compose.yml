@@ -1,7 +1,7 @@
 services:
     basbacio-payroll:
         container_name: basbacio-payroll
-        image: tweaktheboss/basbacio-payrol
+        image: tweaktheboss/basbacio-payroll
         build: 
             dockerfile: ./Dockerfile
         ports:
