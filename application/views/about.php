@@ -33,7 +33,7 @@
                   <h4><span class="glyphicons"></span> <span>GL Aba&ntilde;o Systems</span>
                     <br />
                     <h6>
-                      <span class="glyphicons"></span> EZ-Payroll <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span>
+                      <span class="glyphicons"></span> EZ-Payroll (Docker Version) <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span>
                     </h6>
                   <span style="font-size:12px;color:gray;display:block;">Contact No [DITO]: <b>+(63) 992-830-7802</b></span>
 
