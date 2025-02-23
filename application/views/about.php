@@ -35,7 +35,7 @@
                     <h6>
                       <span class="glyphicons"></span> EZ-Payroll <span style="font-size:12px;">[ v.<?php echo $this->config->item("version") . " " . $this->config->item("registered_to");?> ]</span>
                     </h6>
-                  <span style="font-size:12px;color:gray;display:block;">Contact No [SMART]: <b>+(63) 950-271-3043</b></span>
+                  <span style="font-size:12px;color:gray;display:block;">Contact No [DITO]: <b>+(63) 992-830-7802</b></span>
 
                 
                   

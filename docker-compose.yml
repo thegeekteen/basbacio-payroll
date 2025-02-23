@@ -1,0 +1,10 @@
+services:
+    basbacio-payroll:
+        container_name: basbacio-payroll
+        image: tweaktheboss/basbacio-payrol
+        build: 
+            dockerfile: ./Dockerfile
+        ports:
+            - 8181:80
+        volumes: 
+            - ./basbacio-payroll.db:/var/www/basbacio-payroll.db
